@@ -1,0 +1,4 @@
+plato
+=====
+
+Example PhoneGap Application
